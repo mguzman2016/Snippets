@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+		<div class="alert alert-warning alert-dismissible">
+            <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+            <h4><i class="icon fa fa-warning"></i> Ingrese el Titulo Aqui!</h4>
+            Ingrese el Texto Aqui.
+         </div>
+]]></content>
+	<tabTrigger>bs-lte-alert-warning</tabTrigger>
+</snippet>
